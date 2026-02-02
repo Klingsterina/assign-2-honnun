@@ -1,5 +1,5 @@
 Hello world!
 
-Annað message!
+Annað skilaboð!
 
 Nihao! dílaðu við þetta merge conflict?
