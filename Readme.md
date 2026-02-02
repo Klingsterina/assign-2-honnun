@@ -1,5 +1,5 @@
-Halló heimur
+Hello world
 
-Annað message
+Annað message?
 
-Nihao ma?
+Nihao!?
