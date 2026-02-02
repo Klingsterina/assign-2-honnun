@@ -2,4 +2,4 @@ Hello world!
 
 Annað message!
 
-Nihao!?
+Nihao! dílaðu við þetta merge conflict?
