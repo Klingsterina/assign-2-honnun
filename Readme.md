@@ -1,5 +1,5 @@
-Hello world
+Hello world!
 
-Annað message
+Annað message!
 
 Nihao!
