@@ -2,4 +2,4 @@ Halló heimur
 
 Annað message
 
-Nihao!
+Nihao ma?
